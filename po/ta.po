@@ -1,0 +1,312 @@
+# Tamil translation of Atk.
+# Copyright (C) 2003 atk's COPYRIGHT HOLDER
+# This file is distributed under the same license as the Atk package.
+# Dinesh Nadarajah <n_dinesh@yahoo.com>, 2003.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil Atk\n"
+"POT-Creation-Date: 2003-03-28 19:35+0100\n"
+"PO-Revision-Date: 2003-03-29 00:22+0600\n"
+"Last-Translator: Dinesh Nadarajah <n_dinesh@yahoo.com>\n"
+"Language-Team: Tamil <tamilinix@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: atk/atkobject.c:1183
+msgid "invalid"
+msgstr "¦ºøÖÀÊÂüÈÐ"
+
+#: atk/atkobject.c:1186
+msgid "accel-label"
+msgstr "¬÷ÓÎ¸ø-«¨¼Â¡Çõ"
+
+#: atk/atkobject.c:1189
+msgid "alert"
+msgstr "Å¢Æ¢ôÒ½÷×"
+
+#: atk/atkobject.c:1192
+msgid "animation"
+msgstr "«¨ºçð¼õ"
+
+#: atk/atkobject.c:1195
+msgid "arrow"
+msgstr "«õÒ"
+
+#: atk/atkobject.c:1198
+msgid "calendar"
+msgstr "ÌÈ¢ô§ÀÎ"
+
+#: atk/atkobject.c:1201
+msgid "canvas"
+msgstr "Å¨ÃÔõÁ¢¼õ"
+
+#: atk/atkobject.c:1204
+msgid "check-box"
+msgstr "¦¾Ã¢×ô-¦ÀðÊ"
+
+#: atk/atkobject.c:1207
+msgid "check-menu-item"
+msgstr "¾¢Ã¢×-ÀðÊ-¯ÕôÀÊ"
+
+#: atk/atkobject.c:1210
+msgid "color-chooser"
+msgstr "Åñ½-§¾÷Å¡Ä÷"
+
+#: atk/atkobject.c:1213
+msgid "column-header"
+msgstr "¦¿ÎÅ¡¢¨º-¾¨ÄôÒ"
+
+#: atk/atkobject.c:1216
+msgid "combo-box"
+msgstr "þØôÒò ¦¾Ã¢×ô-¦ÀðÊ"
+
+#: atk/atkobject.c:1219
+msgid "date-editor"
+msgstr "¾¢¸¾¢-À¾¢ôÀ¡ý"
+
+#: atk/atkobject.c:1222
+msgid "desktop-icon"
+msgstr "¸½¢§Á¨º-ÌÚõÀ¼õ"
+
+#: atk/atkobject.c:1225
+msgid "desktop-frame"
+msgstr "¸½¢§Á¨º-ºð¼õ"
+
+#: atk/atkobject.c:1228
+msgid "dial"
+msgstr "ÍÆüÚ"
+
+#: atk/atkobject.c:1231
+msgid "dialog"
+msgstr "¯¨ÃÂ¡¼ø"
+
+#: atk/atkobject.c:1234
+msgid "directory-pane"
+msgstr "«¨¼×-ÀÌ¾¢"
+
+#: atk/atkobject.c:1237
+msgid "drawing-area"
+msgstr "Å¨ÃÔõ-þ¼õ"
+
+#: atk/atkobject.c:1240
+msgid "file-chooser"
+msgstr "§¸¡ôÒ-§¾÷Å¡Ä÷"
+
+#: atk/atkobject.c:1243
+msgid "filler"
+msgstr "¿¢ÃôÒì ¸ÕÅ¢"
+
+#: atk/atkobject.c:1246
+msgid "font-chooser"
+msgstr "±ØòÐÕ-§¾÷Å¡Ä÷"
+
+#: atk/atkobject.c:1249
+msgid "frame"
+msgstr "ºð¼õ"
+
+#: atk/atkobject.c:1252
+msgid "glass-pane"
+msgstr "¸ñ½¡Ê-ÀÌ¾¢"
+
+#: atk/atkobject.c:1255
+msgid "html-container"
+msgstr "html-¾¡í¸¢"
+
+#: atk/atkobject.c:1258
+msgid "icon"
+msgstr "ÌÚõÀ¼õ"
+
+#: atk/atkobject.c:1261
+msgid "image"
+msgstr "¯ÕÅõ"
+
+#: atk/atkobject.c:1264
+msgid "internal-frame"
+msgstr "¯ûÇ¨Á-ºð¼õ"
+
+#: atk/atkobject.c:1267
+msgid "label"
+msgstr "«¨¼Â¡Çõ"
+
+#: atk/atkobject.c:1270
+msgid "layered-pane"
+msgstr "«ÎìÌ¸û §¸¡ñ¼-ÀÌ¾¢"
+
+#: atk/atkobject.c:1273
+msgid "list"
+msgstr "ÀðÊÂø"
+
+#: atk/atkobject.c:1276
+msgid "list-item"
+msgstr "ÀðÊÂø-¯ÕôÀÊ"
+
+#: atk/atkobject.c:1279
+msgid "menu"
+msgstr "ÀðÊ"
+
+#: atk/atkobject.c:1282
+msgid "menu-bar"
+msgstr "ÀðÊ-Àð¨¼"
+
+#: atk/atkobject.c:1285
+msgid "menu-item"
+msgstr "ÀðÊ-¯ÕôÀÊ"
+
+#: atk/atkobject.c:1288
+msgid "option-pane"
+msgstr "Å¢ÕôÀô-ÀÌ¾¢"
+
+#: atk/atkobject.c:1291
+msgid "page-tab"
+msgstr "Àì¸õ-¾ò¾ø"
+
+#: atk/atkobject.c:1294
+msgid "page-tab-list"
+msgstr "Àì¸õ-¾ò¾ø-ÀðÊÂø"
+
+#: atk/atkobject.c:1297
+msgid "panel"
+msgstr "ÀÄ¸õ"
+
+#: atk/atkobject.c:1300
+msgid "password-text"
+msgstr "¸¼×î ¦º¡ø-¯¨Ã"
+
+#: atk/atkobject.c:1303
+msgid "popup-menu"
+msgstr "§ÁøÁ£ðÒ-ÀðÊ"
+
+#: atk/atkobject.c:1306
+msgid "progress-bar"
+msgstr "Óý§ÉüÈõ-Àð¨¼"
+
+#: atk/atkobject.c:1309
+msgid "push-button"
+msgstr "«ØòÐõ-¦À¡ò¾¡ý"
+
+#: atk/atkobject.c:1312
+msgid "radio-button"
+msgstr "´ü¨Èò ¦¾Ã¢×ô-¦ÀðÊ"
+
+#: atk/atkobject.c:1315
+msgid "radio-menu-item"
+msgstr "´ü¨Èô ÀðÊ-¯ÕôÀÊ"
+
+#: atk/atkobject.c:1318
+msgid "root-pane"
+msgstr "§Å÷-ÀÌ¾¢"
+
+#: atk/atkobject.c:1321
+msgid "row-header"
+msgstr "¸¢¨¼ÅÃ¢¨º-¾¨ÄôÒ"
+
+#: atk/atkobject.c:1324
+msgid "scroll-bar"
+msgstr "¯ÕÇø-Àð¨¼"
+
+#: atk/atkobject.c:1327
+msgid "scroll-pane"
+msgstr "¯ÕÇø-ÀÌ¾¢"
+
+#: atk/atkobject.c:1330
+msgid "separator"
+msgstr "À¢Ã¢Å¡Ä÷"
+
+#: atk/atkobject.c:1333
+msgid "slider"
+msgstr "þØôÒô Àð¨¼"
+
+#: atk/atkobject.c:1336
+msgid "split-pane"
+msgstr "À¢Ã¢×-ÀÌ¾¢"
+
+#: atk/atkobject.c:1339
+msgid "spin-button"
+msgstr "º¢Æø-¦À¡ò¾¡ý"
+
+#: atk/atkobject.c:1342
+msgid "statusbar"
+msgstr "¿¢¨Ä ÀÄ¸õ"
+
+#: atk/atkobject.c:1345
+msgid "table"
+msgstr "«ð¼Å¨½"
+
+#: atk/atkobject.c:1348
+msgid "table-cell"
+msgstr "«ð¼Å¨½-º¢üÈ¨È"
+
+#: atk/atkobject.c:1351
+msgid "table-column-header"
+msgstr "«ð¼Å¨½-¦¿ÎÅ¡¢¨º-¾¨ÄôÒ"
+
+#: atk/atkobject.c:1354
+msgid "table-row-header"
+msgstr "«ð¼Å¨½-¸¢¨¼ÅÃ¢¨º-¾¨ÄôÒ"
+
+#: atk/atkobject.c:1357
+msgid "tear-off-menu-item"
+msgstr "¸¢Æ¢ì¸ìÜÊÂ-ÀðÊ-¯ÕôÀÊ"
+
+#: atk/atkobject.c:1360
+msgid "terminal"
+msgstr "Ó¨ÉÂõ"
+
+#: atk/atkobject.c:1363
+msgid "text"
+msgstr "¯¨Ã"
+
+#: atk/atkobject.c:1366
+msgid "toggle-button"
+msgstr "­Õ¿¢¨Ä-¦À¡ò¾¡ý"
+
+#: atk/atkobject.c:1369
+msgid "tool-bar"
+msgstr "¸ÕÅ¢-Àð¨¼"
+
+#: atk/atkobject.c:1372
+msgid "tool-tip"
+msgstr "¸ÕÅ¢-¯¾Å¢"
+
+#: atk/atkobject.c:1375
+msgid "tree"
+msgstr "ÁÃõ"
+
+#: atk/atkobject.c:1378
+msgid "tree-table"
+msgstr "ÁÃõ-«ð¼Å¨½"
+
+#: atk/atkobject.c:1381
+msgid "unknown"
+msgstr "¦¾Ã¢Â¡¾Ð"
+
+#: atk/atkobject.c:1384
+msgid "viewport"
+msgstr "¸¡ðº¢ º¡ÇÃõ"
+
+#: atk/atkobject.c:1387
+msgid "window"
+msgstr "º¡ÇÃõ"
+
+#: atk/atkobject.c:1390
+msgid "header"
+msgstr "¾¨ÄìÌÈ¢ôÒ"
+
+#: atk/atkobject.c:1393
+msgid "footer"
+msgstr "«ÊìÌÈ¢ôÒ"
+
+#: atk/atkobject.c:1396
+msgid "paragraph"
+msgstr "Àò¾¢"
+
+#: atk/atkobject.c:1399
+msgid "ruler"
+msgstr "«Ç×§¸¡ø"
+
+#: atk/atkobject.c:1402
+msgid "application"
+msgstr "¦ºÂøÀ¡Î"
+
