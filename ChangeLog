@@ -1,8 +1,16 @@
 2003-05-13  Padraig O'Briain  <padraig.obriain@sun.com>
 
-	* docs/atk-sections.txt: Add entries to empty at-unused.txt.
+	* ===== Released 1.2.4=====
 
-	* docs/tmpl/atkobject.sgm: Remove documentation for AtkRole and
+	* configure.in: Version 1.2.4, interface age 4, binary age 204
+
+	* NEWS: Updated.
+
+2003-05-13  Padraig O'Briain  <padraig.obriain@sun.com>
+
+	* docs/atk-sections.txt: Add entries in order to empty at-unused.txt.
+
+	* docs/tmpl/atkobject.sgml: Remove documentation for AtkRole and
 	AtkLayer as it is inline.
 
 2003-05-05  Christian Rose  <menthos@menthos.com>
