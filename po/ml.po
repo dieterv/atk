@@ -1,0 +1,347 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FSF-India <locale@gnu.org.in>, 2003.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: atk 1.2.x\n"
+"POT-Creation-Date: 2003-03-20 17:42+0530\n"
+"PO-Revision-Date: 2003-03-05 10:29+0530\n"
+"Last-Translator: FSF-India <locale@gnu.org.in>\n"
+"Language-Team: Malayalam <locale@gnu.org.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: atk/atkobject.c:1183
+msgid "invalid"
+msgstr "സാധുതയില്ലാത്ത"
+
+#: atk/atkobject.c:1186
+#, fuzzy
+msgid "accel-label"
+msgstr "ലിഖിതം"
+
+#: atk/atkobject.c:1189
+#, fuzzy
+msgid "alert"
+msgstr "ഇടത്"
+
+#: atk/atkobject.c:1192
+msgid "animation"
+msgstr "ചലനചിത്രം"
+
+#: atk/atkobject.c:1195
+msgid "arrow"
+msgstr "സൂചകം"
+
+#: atk/atkobject.c:1198
+msgid "calendar"
+msgstr "കലണ്ടര്"
+
+#: atk/atkobject.c:1201
+msgid "canvas"
+msgstr "ക്യാന്വാസ്"
+
+#: atk/atkobject.c:1204
+msgid "check-box"
+msgstr "മറുകുറി"
+
+#: atk/atkobject.c:1207
+msgid "check-menu-item"
+msgstr ""
+
+#: atk/atkobject.c:1210
+msgid "color-chooser"
+msgstr ""
+
+#: atk/atkobject.c:1213
+msgid "column-header"
+msgstr ""
+
+#: atk/atkobject.c:1216
+msgid "combo-box"
+msgstr ""
+
+#: atk/atkobject.c:1219
+msgid "date-editor"
+msgstr ""
+
+#: atk/atkobject.c:1222
+msgid "desktop-icon"
+msgstr "പണിയിടം ചിഹ്നം"
+
+#: atk/atkobject.c:1225
+msgid "desktop-frame"
+msgstr ""
+
+#: atk/atkobject.c:1228
+#, fuzzy
+msgid "dial"
+msgstr "ഡയല്"
+
+#: atk/atkobject.c:1231
+msgid "dialog"
+msgstr "സംവാദം 1"
+
+#: atk/atkobject.c:1234
+#, fuzzy
+msgid "directory-pane"
+msgstr "കൂട്"
+
+#: atk/atkobject.c:1237
+#, fuzzy
+msgid "drawing-area"
+msgstr "വര മൂല"
+
+#: atk/atkobject.c:1240
+msgid "file-chooser"
+msgstr ""
+
+#: atk/atkobject.c:1243
+#, fuzzy
+msgid "filler"
+msgstr "വെള്ളി"
+
+#: atk/atkobject.c:1246
+msgid "font-chooser"
+msgstr ""
+
+#: atk/atkobject.c:1249
+#, fuzzy
+msgid "frame"
+msgstr "പേര‍്"
+
+#: atk/atkobject.c:1252
+msgid "glass-pane"
+msgstr ""
+
+#: atk/atkobject.c:1255
+#, fuzzy
+msgid "html-container"
+msgstr "ഉള്‍ക്കൊള്ളുന്നു"
+
+#: atk/atkobject.c:1258
+msgid "icon"
+msgstr "ചിഹ്നം"
+
+#: atk/atkobject.c:1261
+msgid "image"
+msgstr "ചിത്രം"
+
+#: atk/atkobject.c:1264
+#, fuzzy
+msgid "internal-frame"
+msgstr "അച്ചടിച്ച തലക്കുറിപ്പ്"
+
+#: atk/atkobject.c:1267
+msgid "label"
+msgstr "ലിഖിതം"
+
+#: atk/atkobject.c:1270
+msgid "layered-pane"
+msgstr ""
+
+#: atk/atkobject.c:1273
+msgid "list"
+msgstr "നാമാവലി"
+
+#: atk/atkobject.c:1276
+#, fuzzy
+msgid "list-item"
+msgstr "വിതരണം"
+
+#: atk/atkobject.c:1279
+#, fuzzy
+msgid "menu"
+msgstr "പട്ടിക"
+
+#: atk/atkobject.c:1282
+#, fuzzy
+msgid "menu-bar"
+msgstr "പട്ടികപ്പട്ട കാണിക്കുക"
+
+#: atk/atkobject.c:1285
+#, fuzzy
+msgid "menu-item"
+msgstr "മിനിട്ട്"
+
+#: atk/atkobject.c:1288
+#, fuzzy
+msgid "option-pane"
+msgstr "പ്ളവന പാളി"
+
+#: atk/atkobject.c:1291
+#, fuzzy
+msgid "page-tab"
+msgstr "അനുബന്ധങ്ങള്"
+
+#: atk/atkobject.c:1294
+msgid "page-tab-list"
+msgstr ""
+
+#: atk/atkobject.c:1297
+#, fuzzy
+msgid "panel"
+msgstr "പാളി"
+
+#: atk/atkobject.c:1300
+#, fuzzy
+msgid "password-text"
+msgstr "അടയാളവാക്യം"
+
+#: atk/atkobject.c:1303
+msgid "popup-menu"
+msgstr ""
+
+#: atk/atkobject.c:1306
+#, fuzzy
+msgid "progress-bar"
+msgstr "പൂരോഗതി‌"
+
+#: atk/atkobject.c:1309
+msgid "push-button"
+msgstr ""
+
+#: atk/atkobject.c:1312
+#, fuzzy
+msgid "radio-button"
+msgstr "പരമ്പരാഗത"
+
+#: atk/atkobject.c:1315
+msgid "radio-menu-item"
+msgstr ""
+
+#: atk/atkobject.c:1318
+msgid "root-pane"
+msgstr ""
+
+#: atk/atkobject.c:1321
+#, fuzzy
+msgid "row-header"
+msgstr "എല്ലാ തലവാചകങ്ങളും കാണിക്കുക"
+
+#: atk/atkobject.c:1324
+msgid "scroll-bar"
+msgstr ""
+
+#: atk/atkobject.c:1327
+#, fuzzy
+msgid "scroll-pane"
+msgstr "നിരക്കിനീക്കാവുന്ന"
+
+#: atk/atkobject.c:1330
+msgid "separator"
+msgstr "വേ‍ര്തിരി"
+
+#: atk/atkobject.c:1333
+#, fuzzy
+msgid "slider"
+msgstr "കൂട്"
+
+#: atk/atkobject.c:1336
+msgid "split-pane"
+msgstr ""
+
+#: atk/atkobject.c:1339
+#, fuzzy
+msgid "spin-button"
+msgstr "വ്യഞ്ജനബിന്ദു"
+
+#: atk/atkobject.c:1342
+#, fuzzy
+msgid "statusbar"
+msgstr "അവസ്ഥാപ്പട്ട"
+
+#: atk/atkobject.c:1345
+#, fuzzy
+msgid "table"
+msgstr "ചിട്ടപ്പെടുത്തിയ"
+
+#: atk/atkobject.c:1348
+msgid "table-cell"
+msgstr ""
+
+#: atk/atkobject.c:1351
+msgid "table-column-header"
+msgstr ""
+
+#: atk/atkobject.c:1354
+msgid "table-row-header"
+msgstr ""
+
+#: atk/atkobject.c:1357
+msgid "tear-off-menu-item"
+msgstr ""
+
+#: atk/atkobject.c:1360
+#, fuzzy
+msgid "terminal"
+msgstr "ടെ‍ര്മിനല്"
+
+#: atk/atkobject.c:1363
+#, fuzzy
+msgid "text"
+msgstr "അടുത്തത്"
+
+#: atk/atkobject.c:1366
+msgid "toggle-button"
+msgstr ""
+
+#: atk/atkobject.c:1369
+#, fuzzy
+msgid "tool-bar"
+msgstr "പണി ആയുധപ്പട്ട"
+
+#: atk/atkobject.c:1372
+msgid "tool-tip"
+msgstr ""
+
+#: atk/atkobject.c:1375
+#, fuzzy
+msgid "tree"
+msgstr "വൃക്ഷം"
+
+#: atk/atkobject.c:1378
+#, fuzzy
+msgid "tree-table"
+msgstr "തെരഞ്ഞെടുക്കാവുന്ന"
+
+#: atk/atkobject.c:1381
+msgid "unknown"
+msgstr "അറിയാത്ത"
+
+#: atk/atkobject.c:1384
+msgid "viewport"
+msgstr ""
+
+#: atk/atkobject.c:1387
+msgid "window"
+msgstr "ജാലകം"
+
+#: atk/atkobject.c:1390
+#, fuzzy
+msgid "header"
+msgstr ""
+"മുഴുവന്‌\n"
+"തലവാചകങ്ങളിലും"
+
+#: atk/atkobject.c:1393
+#, fuzzy
+msgid "footer"
+msgstr "foo"
+
+#: atk/atkobject.c:1396
+#, fuzzy
+msgid "paragraph"
+msgstr "പ്രയോഗം"
+
+#: atk/atkobject.c:1399
+#, fuzzy
+msgid "ruler"
+msgstr "വൃക്ഷം"
+
+#: atk/atkobject.c:1402
+msgid "application"
+msgstr "പ്രയോഗം"
