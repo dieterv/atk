@@ -1,5 +1,13 @@
 2003-04-15  Padraig O'Briain  <padraig.obriain@sun.com>
 
+	* ===== Released 1.2.3=====
+
+	* configure.in: Version 1.2.3, interface age 3, binary age 203
+
+	* NEWS: Updated.
+
+2003-04-15  Padraig O'Briain  <padraig.obriain@sun.com>
+
 	* atk/atkobject.c (atk_object_set_role): Add check that role is
 	actually being changed. Do not emit notification for initial
 	role setting. (bug #107710)
