@@ -1,3 +1,7 @@
+2003-02-19  Dmitry G. Mastrukov  <dmitry@taurussoft.org>
+
+	* configure.in: Added Belarusian to ALL_LINGUAS.
+
 2003-02-09  Christian Rose  <menthos@menthos.com>
 
 	* configure.in: Added "kn" to ALL_LINGUAS.
