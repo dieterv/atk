@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: atk\n"
 "POT-Creation-Date: 2003-01-02 00:20+0100\n"
-"PO-Revision-Date: 2003-01-02 00:20+0100\n"
+"PO-Revision-Date: 2003-01-03 23:59+0100\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,11 +23,11 @@ msgstr "niepoprawny"
 
 #: atk/atkobject.c:1
 msgid "accel-label"
-msgstr ""
+msgstr "etykieta-z-klawiszem-skrótu"
 
 #: atk/atkobject.c:1
 msgid "alert"
-msgstr ""
+msgstr "alarm"
 
 #: atk/atkobject.c:1
 msgid "animation"
@@ -47,11 +47,11 @@ msgstr "płótno"
 
 #: atk/atkobject.c:1
 msgid "check-box"
-msgstr ""
+msgstr "przycisk-opcji"
 
 #: atk/atkobject.c:1
 msgid "check-menu-item"
-msgstr ""
+msgstr "element-menu-wyboru"
 
 #: atk/atkobject.c:1
 msgid "color-chooser"
@@ -63,11 +63,11 @@ msgstr "nagłówek-kolumny"
 
 #: atk/atkobject.c:1
 msgid "combo-box"
-msgstr ""
+msgstr "wejście-z-opcjami"
 
 #: atk/atkobject.c:1
 msgid "date-editor"
-msgstr ""
+msgstr "edytor-dat"
 
 #: atk/atkobject.c:1
 msgid "desktop-icon"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: atk/atkobject.c:1
 msgid "html-container"
-msgstr ""
+msgstr "zawartość-html"
 
 #: atk/atkobject.c:1
 msgid "icon"
@@ -167,7 +167,7 @@ msgstr "zakładka-strony"
 
 #: atk/atkobject.c:1
 msgid "page-tab-list"
-msgstr ""
+msgstr "lista-zakładek-stron"
 
 #: atk/atkobject.c:1
 msgid "panel"
@@ -175,7 +175,7 @@ msgstr "panel"
 
 #: atk/atkobject.c:1
 msgid "password-text"
-msgstr ""
+msgstr "tekst-hasła"
 
 #: atk/atkobject.c:1
 msgid "popup-menu"
@@ -191,11 +191,11 @@ msgstr "przycisk"
 
 #: atk/atkobject.c:1
 msgid "radio-button"
-msgstr ""
+msgstr "przycisk-radiowy"
 
 #: atk/atkobject.c:1
 msgid "radio-menu-item"
-msgstr ""
+msgstr "radiowy-element-menu"
 
 #: atk/atkobject.c:1
 msgid "root-pane"
@@ -251,7 +251,7 @@ msgstr "nagłówek-wiersza-tabeli"
 
 #: atk/atkobject.c:1
 msgid "tear-off-menu-item"
-msgstr ""
+msgstr "odrywający-element-menu"
 
 #: atk/atkobject.c:1
 msgid "terminal"
@@ -287,7 +287,7 @@ msgstr "nieznany"
 
 #: atk/atkobject.c:1
 msgid "viewport"
-msgstr ""
+msgstr "obszar-wyświetlania"
 
 #: atk/atkobject.c:1
 msgid "window"
@@ -307,7 +307,7 @@ msgstr "akapit"
 
 #: atk/atkobject.c:1
 msgid "ruler"
-msgstr ""
+msgstr "linijka"
 
 #: atk/atkobject.c:1
 msgid "application"
