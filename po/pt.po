@@ -1,0 +1,311 @@
+# atk Portuguese translation..
+# Copyright (C) 2003 atk
+# This file is distributed under the same license as the atk package.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2003.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: atk\n"
+"POT-Creation-Date: 2003-01-26 12:08+0100\n"
+"PO-Revision-Date: 2003-01-26 20:22+0100\n"
+"Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
+"Language-Team: pt <gnome_pt@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: atk/atkobject.c:1183
+msgid "invalid"
+msgstr "invalido"
+
+#: atk/atkobject.c:1186
+msgid "accel-label"
+msgstr "etiqueta-atalho"
+
+#: atk/atkobject.c:1189
+msgid "alert"
+msgstr "alerta"
+
+#: atk/atkobject.c:1192
+msgid "animation"
+msgstr "animação"
+
+#: atk/atkobject.c:1195
+msgid "arrow"
+msgstr "seta"
+
+#: atk/atkobject.c:1198
+msgid "calendar"
+msgstr "calendário"
+
+#: atk/atkobject.c:1201
+msgid "canvas"
+msgstr "janela"
+
+#: atk/atkobject.c:1204
+msgid "check-box"
+msgstr "caixa-selecção"
+
+#: atk/atkobject.c:1207
+msgid "check-menu-item"
+msgstr "item-menu-selecção"
+
+#: atk/atkobject.c:1210
+msgid "color-chooser"
+msgstr "selector-cores"
+
+#: atk/atkobject.c:1213
+msgid "column-header"
+msgstr "cabeçalho-coluna"
+
+#: atk/atkobject.c:1216
+msgid "combo-box"
+msgstr "caixa-combo"
+
+#: atk/atkobject.c:1219
+msgid "date-editor"
+msgstr "editor-datas"
+
+#: atk/atkobject.c:1222
+msgid "desktop-icon"
+msgstr "ícone-ambiente"
+
+#: atk/atkobject.c:1225
+msgid "desktop-frame"
+msgstr "moldura-ambiente"
+
+#: atk/atkobject.c:1228
+msgid "dial"
+msgstr "botão-rodar"
+
+#: atk/atkobject.c:1231
+msgid "dialog"
+msgstr "diálogo"
+
+#: atk/atkobject.c:1234
+msgid "directory-pane"
+msgstr "painel-director"
+
+#: atk/atkobject.c:1237
+msgid "drawing-area"
+msgstr "área-desenho"
+
+#: atk/atkobject.c:1240
+msgid "file-chooser"
+msgstr "selector-ficheiro"
+
+#: atk/atkobject.c:1243
+msgid "filler"
+msgstr "ferramenta-preencher"
+
+#: atk/atkobject.c:1246
+msgid "font-chooser"
+msgstr "selector-fontes"
+
+#: atk/atkobject.c:1249
+msgid "frame"
+msgstr "moldura"
+
+#: atk/atkobject.c:1252
+msgid "glass-pane"
+msgstr "painel-transparente"
+
+#: atk/atkobject.c:1255
+msgid "html-container"
+msgstr "contentor-html"
+
+#: atk/atkobject.c:1258
+msgid "icon"
+msgstr "ícone"
+
+#: atk/atkobject.c:1261
+msgid "image"
+msgstr "imagem"
+
+#: atk/atkobject.c:1264
+msgid "internal-frame"
+msgstr "moldura-interna"
+
+#: atk/atkobject.c:1267
+msgid "label"
+msgstr "etiqueta"
+
+#: atk/atkobject.c:1270
+msgid "layered-pane"
+msgstr "painel-camadas"
+
+#: atk/atkobject.c:1273
+msgid "list"
+msgstr "lista"
+
+#: atk/atkobject.c:1276
+msgid "list-item"
+msgstr "ítem-lista"
+
+#: atk/atkobject.c:1279
+msgid "menu"
+msgstr "menu"
+
+#: atk/atkobject.c:1282
+msgid "menu-bar"
+msgstr "barra-menu"
+
+#: atk/atkobject.c:1285
+msgid "menu-item"
+msgstr "ítem-menu"
+
+#: atk/atkobject.c:1288
+msgid "option-pane"
+msgstr "painel-opção"
+
+#: atk/atkobject.c:1291
+msgid "page-tab"
+msgstr "separador-página"
+
+#: atk/atkobject.c:1294
+msgid "page-tab-list"
+msgstr "lista-separadores-página"
+
+#: atk/atkobject.c:1297
+msgid "panel"
+msgstr "painel"
+
+#: atk/atkobject.c:1300
+msgid "password-text"
+msgstr "texto-senha"
+
+#: atk/atkobject.c:1303
+msgid "popup-menu"
+msgstr "menu-popup"
+
+#: atk/atkobject.c:1306
+msgid "progress-bar"
+msgstr "barra-progresso"
+
+#: atk/atkobject.c:1309
+msgid "push-button"
+msgstr "botão-pressão"
+
+#: atk/atkobject.c:1312
+msgid "radio-button"
+msgstr "botão-exclusivo"
+
+#: atk/atkobject.c:1315
+msgid "radio-menu-item"
+msgstr "ítem-botão-exclusivo"
+
+#: atk/atkobject.c:1318
+msgid "root-pane"
+msgstr "painel-raiz"
+
+#: atk/atkobject.c:1321
+msgid "row-header"
+msgstr "cabeçalho-linha"
+
+#: atk/atkobject.c:1324
+msgid "scroll-bar"
+msgstr "barra-rolamento"
+
+#: atk/atkobject.c:1327
+msgid "scroll-pane"
+msgstr "painel-rolamento"
+
+#: atk/atkobject.c:1330
+msgid "separator"
+msgstr "separador"
+
+#: atk/atkobject.c:1333
+msgid "slider"
+msgstr "botão-deslizante"
+
+#: atk/atkobject.c:1336
+msgid "split-pane"
+msgstr "painel-divisão"
+
+#: atk/atkobject.c:1339
+msgid "spin-button"
+msgstr "botão-rodar"
+
+#: atk/atkobject.c:1342
+msgid "statusbar"
+msgstr "barra-estados"
+
+#: atk/atkobject.c:1345
+msgid "table"
+msgstr "tabela"
+
+#: atk/atkobject.c:1348
+msgid "table-cell"
+msgstr "célula-tabela"
+
+#: atk/atkobject.c:1351
+msgid "table-column-header"
+msgstr "cabeçalho-coluna-tabela"
+
+#: atk/atkobject.c:1354
+msgid "table-row-header"
+msgstr "cabeçalho-linha-tabela"
+
+#: atk/atkobject.c:1357
+msgid "tear-off-menu-item"
+msgstr "ítem-menu-destacável"
+
+#: atk/atkobject.c:1360
+msgid "terminal"
+msgstr "consola"
+
+#: atk/atkobject.c:1363
+msgid "text"
+msgstr "texto"
+
+#: atk/atkobject.c:1366
+msgid "toggle-button"
+msgstr "botão-alternar"
+
+#: atk/atkobject.c:1369
+msgid "tool-bar"
+msgstr "barra-ferramentas"
+
+#: atk/atkobject.c:1372
+msgid "tool-tip"
+msgstr "dica-ferramenta"
+
+#: atk/atkobject.c:1375
+msgid "tree"
+msgstr "árvore"
+
+#: atk/atkobject.c:1378
+msgid "tree-table"
+msgstr "tabela-árvore"
+
+#: atk/atkobject.c:1381
+msgid "unknown"
+msgstr "desconhecido"
+
+#: atk/atkobject.c:1384
+msgid "viewport"
+msgstr "vista-porto"
+
+#: atk/atkobject.c:1387
+msgid "window"
+msgstr "janela"
+
+#: atk/atkobject.c:1390
+msgid "header"
+msgstr "cabeçalho"
+
+#: atk/atkobject.c:1393
+msgid "footer"
+msgstr "rodapé"
+
+#: atk/atkobject.c:1396
+msgid "paragraph"
+msgstr "parágrafo"
+
+#: atk/atkobject.c:1399
+msgid "ruler"
+msgstr "régua"
+
+#: atk/atkobject.c:1402
+msgid "application"
+msgstr "aplicação"
