@@ -1,3 +1,16 @@
+2003-04-15  Padraig O'Briain  <padraig.obriain@sun.com>
+
+	* atk/atkobject.c (atk_object_set_role): Add check that role is
+	actually being changed. Do not emit notification for initial
+	role setting. (bug #107710)
+
+	* atk/atkgobjectaccessible.c (atk_gobject_accessible_from_object):
+	Correct creation of non-AtkGObjectAccessible (bug #107124)
+
+	* atk/atkobject.c (atk_object_class_init): Set default initialize
+	function so that code which does not check for existence of parent
+	class's initialize function will work.
+
 2003-04-05  Fatih Demir	<kabalak@gtranslator.org>
 
 	* configure.in: Added Tamil ("ta") to the languages' list.

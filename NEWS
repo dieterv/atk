@@ -1,7 +1,31 @@
+Changes in version 1.2.3
+========================
+* Add translations: Tamil [Dinesh], Yiddish [Raphael Finkel],
+Hindi [Guntupalli Karunakar], Malayalam [FSF-India],
+Esperanto [Charles Voelger], Azerbailani [Metin Amiroff],
+Persian [Roozbeh Pournader], Belarusian [Belarusian Team],
+Kanada [Pramod], Bengali [Saymindu Dasgupta],
+Indonesian [Mohammad Damt], Turkish [Fatih Demir],
+Macedonian [Abel Cheung], Japanese [Takeshi AIHANA],
+Portuguese [Duarte Loreto], Icelandic [Sam\303\203\302\272el J\303\203\302\263n Gunnarsson].
+Slovak [Stanislav Visnovsky], Traditional Chinese [Abel Cheung],
+Brazilian Portuguese [Alexandre Folle de Menezes],
+Romanian [Mi\303\203\302\205\303\202\302\237u Moldovan], 
+Mongolian [Sanlig Badral]
+
+* Updated Translations: Swedish, [Christian Rose], Polish [GNOME PL Team],
+Amharic [Daniel Yacob]
+
+* Correct creation of object which is not a AtkGObjectAccessible in
+atk_gobject_accessible_from_object. [Padraig O'Briain and Alex Larsson]
+
+* Do not emit notification for initial setting of role using
+atk_object_set_role(). (bug #107710) [Padraig]
+
 Changes in version 1.2.2
 ========================
 * Add translations: Simplified Chinese (zh_CN) [He Qiangqiang],
-Albanian [Laurent Dhima], Finnisg [Pauli Virtanen], 
+Albanian [Laurent Dhima], Finnish [Pauli Virtanen], 
 Italian [Alession Frusciante], Amharic [Daniel Yacob]
 
 * Allow changing of default installation directory for documentation.

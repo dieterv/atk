@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: atk\n"
-"POT-Creation-Date: 2002-06-16 15:37+0200\n"
+"POT-Creation-Date: 2003-04-15 17:17+0100\n"
 "PO-Revision-Date: 2001-07-29 12:32+0200\n"
 "Last-Translator: Andraz Tori <andraz.tori1@guest.arnes.si>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
@@ -13,309 +13,335 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
-#: atk/atkobject.c:1183
+#: atk/atkobject.c:1192
 msgid "invalid"
-msgstr "neveljavno"	# G:3 K:0 O:0
+msgstr "neveljavno"
 
-#: atk/atkobject.c:1186
+# G:3 K:0 O:0
+#: atk/atkobject.c:1195
 msgid "accel-label"
 msgstr "označba-pospeševalnika"
 
-#: atk/atkobject.c:1189
+#: atk/atkobject.c:1198
 msgid "alert"
 msgstr "alarm"
 
-#: atk/atkobject.c:1192
-msgid "animation"
-msgstr "animacija"	# G:4 K:2 O:0
-
-#: atk/atkobject.c:1195
-msgid "arrow"
-msgstr "puščica"	# G:0 K:1 O:0
-
-#: atk/atkobject.c:1198
-msgid "calendar"
-msgstr "koledar"	# G:6 K:2 O:0
-
 #: atk/atkobject.c:1201
-msgid "canvas"
-msgstr "platno"	# G:0 K:1 O:0
+msgid "animation"
+msgstr "animacija"
 
+# G:4 K:2 O:0
 #: atk/atkobject.c:1204
+msgid "arrow"
+msgstr "puščica"
+
+# G:0 K:1 O:0
+#: atk/atkobject.c:1207
+msgid "calendar"
+msgstr "koledar"
+
+# G:6 K:2 O:0
+#: atk/atkobject.c:1210
+msgid "canvas"
+msgstr "platno"
+
+# G:0 K:1 O:0
+#: atk/atkobject.c:1213
 msgid "check-box"
 msgstr "škatlica-za-obkljukat"
 
-#: atk/atkobject.c:1207
+#: atk/atkobject.c:1216
 msgid "check-menu-item"
 msgstr "obkljukaj-predmet-menuja"
 
-#: atk/atkobject.c:1210
+#: atk/atkobject.c:1219
 msgid "color-chooser"
-msgstr "izbirnik barv"	# G:0 K:1 O:0
+msgstr "izbirnik barv"
 
-#: atk/atkobject.c:1213
+# G:0 K:1 O:0
+#: atk/atkobject.c:1222
 msgid "column-header"
 msgstr "glava-stolpca"
 
-#: atk/atkobject.c:1216
+#: atk/atkobject.c:1225
 msgid "combo-box"
-msgstr "kombinirani-seznam-combo-box"	# G:0 K:1 O:0
+msgstr "kombinirani-seznam-combo-box"
 
-#: atk/atkobject.c:1219
+# G:0 K:1 O:0
+#: atk/atkobject.c:1228
 msgid "date-editor"
 msgstr "urejevalnik-datuma"
 
-#: atk/atkobject.c:1222
+#: atk/atkobject.c:1231
 msgid "desktop-icon"
 msgstr "ikona-namizja"
 
-#: atk/atkobject.c:1225
+#: atk/atkobject.c:1234
 msgid "desktop-frame"
 msgstr "okvir-namizja"
 
-#: atk/atkobject.c:1228
+#: atk/atkobject.c:1237
 msgid "dial"
-msgstr "pokliči"	# G:0 K:3 O:0
+msgstr "pokliči"
 
-#: atk/atkobject.c:1231
+# G:0 K:3 O:0
+#: atk/atkobject.c:1240
 msgid "dialog"
-msgstr "dialog"	# G:1 K:0 O:0
+msgstr "dialog"
 
-#: atk/atkobject.c:1234
+# G:1 K:0 O:0
+#: atk/atkobject.c:1243
 msgid "directory-pane"
 msgstr "pult-imenika"
 
-#: atk/atkobject.c:1237
+#: atk/atkobject.c:1246
 msgid "drawing-area"
 msgstr "risalna-površina"
 
-#: atk/atkobject.c:1240
+#: atk/atkobject.c:1249
 msgid "file-chooser"
 msgstr "izbirnik-datotek"
 
-#: atk/atkobject.c:1243
+#: atk/atkobject.c:1252
 msgid "filler"
 msgstr "polnilnik"
 
-#: atk/atkobject.c:1246
+#: atk/atkobject.c:1255
 msgid "font-chooser"
 msgstr "izbirnik-pisav"
 
-#: atk/atkobject.c:1249
+#: atk/atkobject.c:1258
 msgid "frame"
-msgstr "okvir"	# G:2 K:1 O:0
+msgstr "okvir"
 
-#: atk/atkobject.c:1252
+# G:2 K:1 O:0
+#: atk/atkobject.c:1261
 msgid "glass-pane"
 msgstr "steklen-pult"
 
-#: atk/atkobject.c:1255
+#: atk/atkobject.c:1264
 msgid "html-container"
 msgstr "vesbovalnik-html"
 
-#: atk/atkobject.c:1258
+#: atk/atkobject.c:1267
 msgid "icon"
-msgstr "ikona"	# G:0 K:1 O:0
+msgstr "ikona"
 
-#: atk/atkobject.c:1261
+# G:0 K:1 O:0
+#: atk/atkobject.c:1270
 msgid "image"
-msgstr "slika"	# G:1 K:0 O:0
+msgstr "slika"
 
-#: atk/atkobject.c:1264
+# G:1 K:0 O:0
+#: atk/atkobject.c:1273
 msgid "internal-frame"
 msgstr "notranji-okvir"
 
-#: atk/atkobject.c:1267
+#: atk/atkobject.c:1276
 msgid "label"
-msgstr "oznaka"	# G:3 K:4 O:0
+msgstr "oznaka"
 
-#: atk/atkobject.c:1270
+# G:3 K:4 O:0
+#: atk/atkobject.c:1279
 msgid "layered-pane"
 msgstr "stopenjski-pult"
 
-#: atk/atkobject.c:1273
+#: atk/atkobject.c:1282
 msgid "list"
-msgstr "seznam"	# G:1 K:0 O:0
+msgstr "seznam"
 
-#: atk/atkobject.c:1276
+# G:1 K:0 O:0
+#: atk/atkobject.c:1285
 msgid "list-item"
 msgstr "predmet-seznama"
 
-#: atk/atkobject.c:1279
-msgid "menu"
-msgstr "menu"	# G:0 K:1 O:0
-
-#: atk/atkobject.c:1282
-msgid "menu-bar"
-msgstr "menujska-vrstica"	# G:2 K:0 O:0
-
-#: atk/atkobject.c:1285
-msgid "menu-item"
-msgstr "predmet-menuja"	# G:1 K:0 O:0
-
 #: atk/atkobject.c:1288
+msgid "menu"
+msgstr "menu"
+
+# G:0 K:1 O:0
+#: atk/atkobject.c:1291
+msgid "menu-bar"
+msgstr "menujska-vrstica"
+
+# G:2 K:0 O:0
+#: atk/atkobject.c:1294
+msgid "menu-item"
+msgstr "predmet-menuja"
+
+# G:1 K:0 O:0
+#: atk/atkobject.c:1297
 msgid "option-pane"
 msgstr "pult-možnosti"
 
-#: atk/atkobject.c:1291
+#: atk/atkobject.c:1300
 msgid "page-tab"
 msgstr "uhelj-strani"
 
-#: atk/atkobject.c:1294
+#: atk/atkobject.c:1303
 msgid "page-tab-list"
 msgstr "seznam-strani-uhlja"
 
-#: atk/atkobject.c:1297
+#: atk/atkobject.c:1306
 msgid "panel"
-msgstr "pult"	# G:0 K:1 O:0
+msgstr "pult"
 
-#: atk/atkobject.c:1300
+# G:0 K:1 O:0
+#: atk/atkobject.c:1309
 msgid "password-text"
 msgstr "besedilo-gesla"
 
-#: atk/atkobject.c:1303
+#: atk/atkobject.c:1312
 msgid "popup-menu"
 msgstr "vzklični-menu"
 
-#: atk/atkobject.c:1306
-msgid "progress-bar"
-msgstr "kazalnik-poteka"	# G:0 K:1 O:0
-
-#: atk/atkobject.c:1309
-msgid "push-button"
-msgstr "potisni-gumb"	# G:0 K:1 O:0
-
-#: atk/atkobject.c:1312
-msgid "radio-button"
-msgstr "radijski-gumb"	# G:0 K:1 O:0
-
 #: atk/atkobject.c:1315
+msgid "progress-bar"
+msgstr "kazalnik-poteka"
+
+# G:0 K:1 O:0
+#: atk/atkobject.c:1318
+msgid "push-button"
+msgstr "potisni-gumb"
+
+# G:0 K:1 O:0
+#: atk/atkobject.c:1321
+msgid "radio-button"
+msgstr "radijski-gumb"
+
+# G:0 K:1 O:0
+#: atk/atkobject.c:1324
 msgid "radio-menu-item"
 msgstr "predmet-radijskega-menuja"
 
-#: atk/atkobject.c:1318
+#: atk/atkobject.c:1327
 msgid "root-pane"
 msgstr "korenski-pult"
 
-#: atk/atkobject.c:1321
+#: atk/atkobject.c:1330
 msgid "row-header"
 msgstr "glava-vrstice"
 
-#: atk/atkobject.c:1324
+#: atk/atkobject.c:1333
 msgid "scroll-bar"
-msgstr "drsnilnik"	# G:0 K:1 O:0
+msgstr "drsnilnik"
 
-#: atk/atkobject.c:1327
+# G:0 K:1 O:0
+#: atk/atkobject.c:1336
 msgid "scroll-pane"
 msgstr "drsilni-pult"
 
-#: atk/atkobject.c:1330
+#: atk/atkobject.c:1339
 msgid "separator"
-msgstr "ločnica"	# G:3 K:1 O:0
+msgstr "ločnica"
 
-#: atk/atkobject.c:1333
+# G:3 K:1 O:0
+#: atk/atkobject.c:1342
 msgid "slider"
-msgstr "drsnik"	# G:0 K:1 O:0
+msgstr "drsnik"
 
-#: atk/atkobject.c:1336
+# G:0 K:1 O:0
+#: atk/atkobject.c:1345
 msgid "split-pane"
 msgstr "delilni-pult"
 
-#: atk/atkobject.c:1339
+#: atk/atkobject.c:1348
 msgid "spin-button"
 msgstr "vrtilni-gumb"
 
-#: atk/atkobject.c:1342
+#: atk/atkobject.c:1351
 msgid "statusbar"
-msgstr "vrstica-stanja"	# G:4 K:0 O:0
+msgstr "vrstica-stanja"
 
-#: atk/atkobject.c:1345
+# G:4 K:0 O:0
+#: atk/atkobject.c:1354
 msgid "table"
-msgstr "tabela"	# G:0 K:1 O:0
+msgstr "tabela"
 
-#: atk/atkobject.c:1348
+# G:0 K:1 O:0
+#: atk/atkobject.c:1357
 msgid "table-cell"
 msgstr "celica-tabele"
 
-#: atk/atkobject.c:1351
+#: atk/atkobject.c:1360
 msgid "table-column-header"
 msgstr "glava-stolpca-tabele"
 
-#: atk/atkobject.c:1354
+#: atk/atkobject.c:1363
 msgid "table-row-header"
 msgstr "glava-vrstice-tabele"
 
-#: atk/atkobject.c:1357
+#: atk/atkobject.c:1366
 msgid "tear-off-menu-item"
 msgstr "odtrgljiv-predmet-menuja"
 
-#: atk/atkobject.c:1360
+#: atk/atkobject.c:1369
 msgid "terminal"
-msgstr "terminal"	# G:0 K:1 O:0
+msgstr "terminal"
 
-#: atk/atkobject.c:1363
+# G:0 K:1 O:0
+#: atk/atkobject.c:1372
 msgid "text"
-msgstr "besedilo"	# G:1 K:1 O:0
+msgstr "besedilo"
 
-#: atk/atkobject.c:1366
+# G:1 K:1 O:0
+#: atk/atkobject.c:1375
 msgid "toggle-button"
 msgstr "preklopni-gumb"
 
-#: atk/atkobject.c:1369
+#: atk/atkobject.c:1378
 msgid "tool-bar"
-msgstr "orodjarna"	# G:1 K:1 O:0
+msgstr "orodjarna"
 
-#: atk/atkobject.c:1372
+# G:1 K:1 O:0
+#: atk/atkobject.c:1381
 msgid "tool-tip"
 msgstr "namig"
 
-#: atk/atkobject.c:1375
+#: atk/atkobject.c:1384
 msgid "tree"
-msgstr "drevo"	# G:7 K:1 O:0
+msgstr "drevo"
 
-#: atk/atkobject.c:1378
+# G:7 K:1 O:0
+#: atk/atkobject.c:1387
 msgid "tree-table"
 msgstr "drevesna-tabela"
 
-#: atk/atkobject.c:1381
-msgid "unknown"
-msgstr "neznan"	# G:4 K:2 O:0
-
-#: atk/atkobject.c:1384
-msgid "viewport"
-msgstr "pogled"	# G:1 K:0 O:0
-
-#: atk/atkobject.c:1387
-msgid "window"
-msgstr "okno"	# G:7 K:6 O:0
-
 #: atk/atkobject.c:1390
-msgid "header"
-msgstr "glava"	# G:1 K:0 O:0
+msgid "unknown"
+msgstr "neznan"
 
+# G:4 K:2 O:0
 #: atk/atkobject.c:1393
-msgid "footer"
-msgstr "noga"	# G:1 K:0 O:0
+msgid "viewport"
+msgstr "pogled"
 
+# G:1 K:0 O:0
 #: atk/atkobject.c:1396
-msgid "paragraph"
-msgstr "odstavek"	# G:4 K:3 O:0
+msgid "window"
+msgstr "okno"
 
+# G:7 K:6 O:0
 #: atk/atkobject.c:1399
-msgid "ruler"
-msgstr "ravnilo"	# G:1 K:0 O:0
+msgid "header"
+msgstr "glava"
 
+# G:1 K:0 O:0
 #: atk/atkobject.c:1402
+msgid "footer"
+msgstr "noga"
+
+# G:1 K:0 O:0
+#: atk/atkobject.c:1405
+msgid "paragraph"
+msgstr "odstavek"
+
+# G:4 K:3 O:0
+#: atk/atkobject.c:1408
+msgid "ruler"
+msgstr "ravnilo"
+
+# G:1 K:0 O:0
+#: atk/atkobject.c:1411
 msgid "application"
-msgstr "Ppogram"	# G:0 K:1 O:0
-
-# Smart report:
-# Total untranslated messages in file: 74 
-# Translations made:
-# full: 19
-# smart: 0
-# cond: 42
-# total: 61 ; distinct: 38
-
-
+msgstr "Ppogram"

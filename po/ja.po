@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: atk 1.2.2\n"
-"POT-Creation-Date: 2003-01-28 00:28+0900\n"
+"POT-Creation-Date: 2003-04-15 17:17+0100\n"
 "PO-Revision-Date: 2003-01-28 00:27+0900\n"
 "Last-Translator: Takeshi AIHANA <aihana@gnome.gr.jp>\n"
 "Language-Team: Japanese <translation@gnome.gr.jp>\n"
@@ -14,298 +14,298 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: atk/atkobject.c:1183
+#: atk/atkobject.c:1192
 msgid "invalid"
 msgstr "無効"
 
-#: atk/atkobject.c:1186
+#: atk/atkobject.c:1195
 msgid "accel-label"
 msgstr "アクセラレーション・ラベル"
 
-#: atk/atkobject.c:1189
+#: atk/atkobject.c:1198
 msgid "alert"
 msgstr "警告"
 
-#: atk/atkobject.c:1192
+#: atk/atkobject.c:1201
 msgid "animation"
 msgstr "アニメーション"
 
-#: atk/atkobject.c:1195
+#: atk/atkobject.c:1204
 msgid "arrow"
 msgstr "矢印"
 
-#: atk/atkobject.c:1198
+#: atk/atkobject.c:1207
 msgid "calendar"
 msgstr "カレンダ"
 
-#: atk/atkobject.c:1201
+#: atk/atkobject.c:1210
 msgid "canvas"
 msgstr "キャンバス"
 
-#: atk/atkobject.c:1204
+#: atk/atkobject.c:1213
 msgid "check-box"
 msgstr "チェック・ボックス"
 
-#: atk/atkobject.c:1207
+#: atk/atkobject.c:1216
 msgid "check-menu-item"
 msgstr "チェック・メニュー項目"
 
-#: atk/atkobject.c:1210
+#: atk/atkobject.c:1219
 msgid "color-chooser"
 msgstr "色の選択"
 
-#: atk/atkobject.c:1213
+#: atk/atkobject.c:1222
 msgid "column-header"
 msgstr "桁ヘッダ"
 
-#: atk/atkobject.c:1216
+#: atk/atkobject.c:1225
 msgid "combo-box"
 msgstr "コンボ・ボックス"
 
-#: atk/atkobject.c:1219
+#: atk/atkobject.c:1228
 msgid "date-editor"
 msgstr "日付・エディタ"
 
-#: atk/atkobject.c:1222
+#: atk/atkobject.c:1231
 msgid "desktop-icon"
 msgstr "デスクトップ・アイコン"
 
-#: atk/atkobject.c:1225
+#: atk/atkobject.c:1234
 msgid "desktop-frame"
 msgstr "デスクトップ・フレーム"
 
-#: atk/atkobject.c:1228
+#: atk/atkobject.c:1237
 msgid "dial"
 msgstr "ダイアル"
 
-#: atk/atkobject.c:1231
+#: atk/atkobject.c:1240
 msgid "dialog"
 msgstr "ダイアログ"
 
-#: atk/atkobject.c:1234
+#: atk/atkobject.c:1243
 msgid "directory-pane"
 msgstr "フォルダ・ペイン"
 
-#: atk/atkobject.c:1237
+#: atk/atkobject.c:1246
 msgid "drawing-area"
 msgstr "描画領域"
 
-#: atk/atkobject.c:1240
+#: atk/atkobject.c:1249
 msgid "file-chooser"
 msgstr "ファイルの選択"
 
-#: atk/atkobject.c:1243
+#: atk/atkobject.c:1252
 msgid "filler"
 msgstr "ファイラ"
 
-#: atk/atkobject.c:1246
+#: atk/atkobject.c:1255
 msgid "font-chooser"
 msgstr "フォントの選択"
 
-#: atk/atkobject.c:1249
+#: atk/atkobject.c:1258
 msgid "frame"
 msgstr "フレーム"
 
-#: atk/atkobject.c:1252
+#: atk/atkobject.c:1261
 msgid "glass-pane"
 msgstr "ガラスのペイン"
 
-#: atk/atkobject.c:1255
+#: atk/atkobject.c:1264
 msgid "html-container"
 msgstr "HTML-コンテナ"
 
-#: atk/atkobject.c:1258
+#: atk/atkobject.c:1267
 msgid "icon"
 msgstr "アイコン"
 
-#: atk/atkobject.c:1261
+#: atk/atkobject.c:1270
 msgid "image"
 msgstr "画像"
 
-#: atk/atkobject.c:1264
+#: atk/atkobject.c:1273
 msgid "internal-frame"
 msgstr "内部フレーム"
 
-#: atk/atkobject.c:1267
+#: atk/atkobject.c:1276
 msgid "label"
 msgstr "ラベル"
 
-#: atk/atkobject.c:1270
+#: atk/atkobject.c:1279
 msgid "layered-pane"
 msgstr "階層ペイン"
 
-#: atk/atkobject.c:1273
+#: atk/atkobject.c:1282
 msgid "list"
 msgstr "一覧"
 
-#: atk/atkobject.c:1276
+#: atk/atkobject.c:1285
 msgid "list-item"
 msgstr "一覧の項目"
 
-#: atk/atkobject.c:1279
+#: atk/atkobject.c:1288
 msgid "menu"
 msgstr "メニュー"
 
-#: atk/atkobject.c:1282
+#: atk/atkobject.c:1291
 msgid "menu-bar"
 msgstr "メニュー・バー"
 
-#: atk/atkobject.c:1285
+#: atk/atkobject.c:1294
 msgid "menu-item"
 msgstr "メニューの項目"
 
-#: atk/atkobject.c:1288
+#: atk/atkobject.c:1297
 msgid "option-pane"
 msgstr "オプション・ペイン"
 
-#: atk/atkobject.c:1291
+#: atk/atkobject.c:1300
 msgid "page-tab"
 msgstr "ページ・タブ"
 
-#: atk/atkobject.c:1294
+#: atk/atkobject.c:1303
 msgid "page-tab-list"
 msgstr "ページ・タブの一覧"
 
-#: atk/atkobject.c:1297
+#: atk/atkobject.c:1306
 msgid "panel"
 msgstr "パネル"
 
-#: atk/atkobject.c:1300
+#: atk/atkobject.c:1309
 msgid "password-text"
 msgstr "パスワード"
 
-#: atk/atkobject.c:1303
+#: atk/atkobject.c:1312
 msgid "popup-menu"
 msgstr "ポップアップ・メニュー"
 
-#: atk/atkobject.c:1306
+#: atk/atkobject.c:1315
 msgid "progress-bar"
 msgstr "進捗バー"
 
-#: atk/atkobject.c:1309
+#: atk/atkobject.c:1318
 msgid "push-button"
 msgstr "プッシュ・ボタン"
 
-#: atk/atkobject.c:1312
+#: atk/atkobject.c:1321
 msgid "radio-button"
 msgstr "ラジオ・ボタン"
 
-#: atk/atkobject.c:1315
+#: atk/atkobject.c:1324
 msgid "radio-menu-item"
 msgstr "ラジオ・ボタンの項目"
 
-#: atk/atkobject.c:1318
+#: atk/atkobject.c:1327
 msgid "root-pane"
 msgstr "ルート・ペイン"
 
-#: atk/atkobject.c:1321
+#: atk/atkobject.c:1330
 msgid "row-header"
 msgstr "行ヘッダ"
 
-#: atk/atkobject.c:1324
+#: atk/atkobject.c:1333
 msgid "scroll-bar"
 msgstr "スクロール・バー"
 
-#: atk/atkobject.c:1327
+#: atk/atkobject.c:1336
 msgid "scroll-pane"
 msgstr "スクロール・ペイン"
 
-#: atk/atkobject.c:1330
+#: atk/atkobject.c:1339
 msgid "separator"
 msgstr "セパレータ"
 
-#: atk/atkobject.c:1333
+#: atk/atkobject.c:1342
 msgid "slider"
 msgstr "スライダ"
 
-#: atk/atkobject.c:1336
+#: atk/atkobject.c:1345
 msgid "split-pane"
 msgstr "分割ペイン"
 
-#: atk/atkobject.c:1339
+#: atk/atkobject.c:1348
 msgid "spin-button"
 msgstr "スピン・ボタン"
 
-#: atk/atkobject.c:1342
+#: atk/atkobject.c:1351
 msgid "statusbar"
 msgstr "ステータスバー"
 
-#: atk/atkobject.c:1345
+#: atk/atkobject.c:1354
 msgid "table"
 msgstr "表"
 
-#: atk/atkobject.c:1348
+#: atk/atkobject.c:1357
 msgid "table-cell"
 msgstr "表のセル"
 
-#: atk/atkobject.c:1351
+#: atk/atkobject.c:1360
 msgid "table-column-header"
 msgstr "表の桁ヘッダ"
 
-#: atk/atkobject.c:1354
+#: atk/atkobject.c:1363
 msgid "table-row-header"
 msgstr "表の行ヘッダ"
 
-#: atk/atkobject.c:1357
+#: atk/atkobject.c:1366
 msgid "tear-off-menu-item"
 msgstr "取り外しメニュー項目"
 
-#: atk/atkobject.c:1360
+#: atk/atkobject.c:1369
 msgid "terminal"
 msgstr "端末"
 
-#: atk/atkobject.c:1363
+#: atk/atkobject.c:1372
 msgid "text"
 msgstr "テキスト"
 
-#: atk/atkobject.c:1366
+#: atk/atkobject.c:1375
 msgid "toggle-button"
 msgstr "トグル・ボタン"
 
-#: atk/atkobject.c:1369
+#: atk/atkobject.c:1378
 msgid "tool-bar"
 msgstr "ツール・バー"
 
-#: atk/atkobject.c:1372
+#: atk/atkobject.c:1381
 msgid "tool-tip"
 msgstr "ツール・チップ"
 
-#: atk/atkobject.c:1375
+#: atk/atkobject.c:1384
 msgid "tree"
 msgstr "ツリー"
 
-#: atk/atkobject.c:1378
+#: atk/atkobject.c:1387
 msgid "tree-table"
 msgstr "ツリーの表"
 
-#: atk/atkobject.c:1381
+#: atk/atkobject.c:1390
 msgid "unknown"
 msgstr "不明"
 
-#: atk/atkobject.c:1384
+#: atk/atkobject.c:1393
 msgid "viewport"
 msgstr "ビューポート"
 
-#: atk/atkobject.c:1387
+#: atk/atkobject.c:1396
 msgid "window"
 msgstr "ウィンドウ"
 
-#: atk/atkobject.c:1390
+#: atk/atkobject.c:1399
 msgid "header"
 msgstr "ヘッダ"
 
-#: atk/atkobject.c:1393
+#: atk/atkobject.c:1402
 msgid "footer"
 msgstr "フッタ"
 
-#: atk/atkobject.c:1396
+#: atk/atkobject.c:1405
 msgid "paragraph"
 msgstr "段落"
 
-#: atk/atkobject.c:1399
+#: atk/atkobject.c:1408
 msgid "ruler"
 msgstr "ルーラ"
 
-#: atk/atkobject.c:1402
+#: atk/atkobject.c:1411
 msgid "application"
 msgstr "アプリケーション"

@@ -1,5 +1,5 @@
 /* ATK -  Accessibility Toolkit
- * Copyright 2001 Sun Microsystems Inc.
+ * Copyright 2001, 2002, 2003 Sun Microsystems Inc.
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
@@ -64,7 +64,8 @@ static void            atk_object_init              (AtkObject       *accessible
                                                      AtkObjectClass  *klass);
 static AtkRelationSet* atk_object_real_ref_relation_set 
                                                     (AtkObject       *accessible);
-
+static void            atk_object_real_initialize   (AtkObject       *accessible,
+                                                     gpointer        data);
 static void            atk_object_real_set_property (GObject         *object,
                                                      guint            prop_id,
                                                      const GValue    *value,
@@ -168,6 +169,7 @@ atk_object_class_init (AtkObjectClass *klass)
   klass->get_role = atk_object_real_get_role;
   klass->get_layer = atk_object_real_get_layer;
   klass->get_mdi_zorder = NULL;
+  klass->initialize = atk_object_real_initialize;
   klass->ref_state_set = atk_object_real_ref_state_set;
   klass->set_name = atk_object_real_set_name;
   klass->set_description = atk_object_real_set_description;
@@ -743,14 +745,21 @@ atk_object_set_role (AtkObject *accessible,
                      AtkRole   role)
 {
   AtkObjectClass *klass;
+  AtkRole old_role;
 
   g_return_if_fail (ATK_IS_OBJECT (accessible));
 
   klass = ATK_OBJECT_GET_CLASS (accessible);
   if (klass->set_role)
     {
-      (klass->set_role) (accessible, role);
-      g_object_notify (G_OBJECT (accessible), atk_object_name_property_role);
+      old_role = atk_object_get_role (accessible);
+      if (old_role != role)
+        {
+          (klass->set_role) (accessible, role);
+          if (old_role != ATK_ROLE_UNKNOWN)
+          /* Do not notify for initial role setting */
+            g_object_notify (G_OBJECT (accessible), atk_object_name_property_role);
+   	}
     }
 }
 
@@ -1532,4 +1541,11 @@ atk_object_remove_relationship (AtkObject       *object,
     }
 
   return ret;
+}
+
+static void
+atk_object_real_initialize (AtkObject *accessible,
+                            gpointer  data)
+{
+  return;
 }
