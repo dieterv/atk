@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: atk\n"
 "POT-Creation-Date: 2003-01-02 00:20+0100\n"
-"PO-Revision-Date: 2003-01-03 23:59+0100\n"
+"PO-Revision-Date: 2003-03-08 01:37+0100\n"
 "Last-Translator: GNOME PL Team <translators@gnome.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -77,9 +77,11 @@ msgstr "ikona-pulpitu"
 msgid "desktop-frame"
 msgstr "ramka-pulpitu"
 
+# chyba o to może chodzić
+# ew. wybieranie numeru.
 #: atk/atkobject.c:1
 msgid "dial"
-msgstr ""
+msgstr "tarcza-liczbowa"
 
 #: atk/atkobject.c:1
 msgid "dialog"
@@ -87,7 +89,7 @@ msgstr "okno-dialogowe"
 
 #: atk/atkobject.c:1
 msgid "directory-pane"
-msgstr ""
+msgstr "obszar-katalogu"
 
 #: atk/atkobject.c:1
 msgid "drawing-area"
@@ -111,7 +113,7 @@ msgstr "ramka"
 
 #: atk/atkobject.c:1
 msgid "glass-pane"
-msgstr ""
+msgstr "obszar-szklany"
 
 #: atk/atkobject.c:1
 msgid "html-container"
@@ -135,7 +137,7 @@ msgstr "etykieta"
 
 #: atk/atkobject.c:1
 msgid "layered-pane"
-msgstr ""
+msgstr "obszar-warstwowy"
 
 #: atk/atkobject.c:1
 msgid "list"
@@ -159,7 +161,7 @@ msgstr "obiekt-menu"
 
 #: atk/atkobject.c:1
 msgid "option-pane"
-msgstr ""
+msgstr "obszar-opcji"
 
 #: atk/atkobject.c:1
 msgid "page-tab"
@@ -199,7 +201,7 @@ msgstr "radiowy-element-menu"
 
 #: atk/atkobject.c:1
 msgid "root-pane"
-msgstr ""
+msgstr "obszar-główny"
 
 #: atk/atkobject.c:1
 msgid "row-header"
@@ -211,7 +213,7 @@ msgstr "pasek-przewijania"
 
 #: atk/atkobject.c:1
 msgid "scroll-pane"
-msgstr ""
+msgstr "obszar-przewijania"
 
 #: atk/atkobject.c:1
 msgid "separator"
@@ -223,11 +225,11 @@ msgstr "suwak"
 
 #: atk/atkobject.c:1
 msgid "split-pane"
-msgstr ""
+msgstr "obszar-podziału"
 
 #: atk/atkobject.c:1
 msgid "spin-button"
-msgstr ""
+msgstr "wejście-liczbowe"
 
 #: atk/atkobject.c:1
 msgid "statusbar"
