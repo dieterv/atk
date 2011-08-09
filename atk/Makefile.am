@@ -179,11 +179,12 @@ endif
 # ---------- Win32 stuff ----------
 
 if OS_WIN32
-libatk_1_0_la_LDFLAGS += -export-symbols atk.def -no-undefined -Wl,atk-win32-res.o
+libatk_1_0_la_LDFLAGS += -export-symbols $(builddir)/atk.def -no-undefined -Wl,atk-win32-res.o
 libatk_1_0_la_DEPENDENCIES = atk-win32-res.o atk.def
 
 install-def-file:
-	$(INSTALL) atk.def $(DESTDIR)$(libdir)/atk-1.0.def
+	$(INSTALL) $(builddir)/atk.def $(DESTDIR)$(libdir)/atk-1.0.def
+
 uninstall-def-file:
 	-rm $(DESTDIR)$(libdir)/atk-1.0.def
 else
@@ -208,10 +209,10 @@ uninstall-ms-lib:
 endif
 
 atk.def: atk.symbols
-	(echo -e EXPORTS; $(CPP) -P -DINCLUDE_VARIABLES -DG_OS_WIN32 -DALL_FILES - <$(srcdir)/atk.symbols | sed -e '/^$$/d' -e 's/^/	/' -e 's/G_GNUC_[^ ]*//g') > atk.def
+	(echo -e EXPORTS; $(CPP) -P -DINCLUDE_VARIABLES -DG_OS_WIN32 -DALL_FILES - <$(srcdir)/atk.symbols | sed -e '/^$$/d' -e 's/^/	/' -e 's/G_GNUC_[^ ]*//g') > $(builddir)/atk.def
 
 atk-$(ATK_API_VERSION).lib: libatk-$(ATK_API_VERSION).la atk.def
-	lib -machine:$(LIB_EXE_MACHINE_FLAG) -name:libatk-$(ATK_API_VERSION)-$(LT_CURRENT_MINUS_AGE).dll -def:atk.def -out:$@
+	lib -machine:$(LIB_EXE_MACHINE_FLAG) -name:libatk-$(ATK_API_VERSION)-$(LT_CURRENT_MINUS_AGE).dll -def:$(builddir)/atk.def -out:$@
 
 
 EXTRA_DIST = atk.symbols atk.rc.in atkmarshal.list atkintl.h atk.rc
